@@ -59,7 +59,7 @@ iptables -A INPUT -p icmp --icmp-type echo-request -j DROP
 
 #Liberando porta 5060
 echo Liberando range de ips utilizados por clientes
-wget -O - https://raw.githubusercontent.com/patryckpinhal/issabel-construtor/main/ips-liberados.sh | bash
+wget -O - https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/ips-liberados.sh | bash
 
 
 #Validar se existe o arquivo de ips particulares, caso não, criar
