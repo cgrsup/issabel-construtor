@@ -7,36 +7,21 @@
 
 clear
 
-echo "	"
-echo "				⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠊⠉⠐⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⠀⠀⢀⠏⠀⠀⠀⠀⠘⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⢡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠘⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⠀⢰⠁⢀⠔⠀⠒⢤⡔⠈⠉⠢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⠀⣾⠀⡇⠀⠀⠂⢀⠂⠀⠂⠀⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⠀⡇⠀⠑⠤⠀⠠⠊⠐⠤⠤⢞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⣼⠀⠀⠀⣀⣴⣶⣿⣿⣷⣦⡀⢱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⠀⡇⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣷⡌⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⢰⠁⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⠀⡾⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⠀⢠⠇⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠈⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⠀⢀⡎⠀⠀⠛⠻⠿⠿⠿⠿⠿⣿⣿⠛⠛⠛⠉⠀⢰⢆⠀⠀⠀⠀⠀⠀⠀⠀"
-echo "				⠀⢠⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠈⠻⣆⠀⠀⠀⠀⠀⠀⠀"
-echo "				⢠⠇⠀⠀⠀⣠⠆⠀⠀⠀⠀⢁⣀⡠⢤⣼⣛⣲⣯⣭⣭⣭⠿⣆⠀⠀⠀⠀⠀⠀"
-echo "				⡎⠀⠀⠀⡰⠃⠀⣀⡤⣖⠪⢿⣶⣿⣿⣿⣿⣿⣿⣿⠿⠟⠀⠘⡄⠀⠀⠀⠀⠀"
-echo "				⣇⠀⠀⡼⣁⢴⡪⠗⠉⠀⠀⠀⠻⠟⢋⣿⣿⣿⣿⣿⡆⠀⠀⠀⢳⠀⠀⠀⠀⠀"
-echo "				⠘⢤⣼⣋⠗⠁⠀⠀⠀⠀⠀⠀⠀⣤⣘⣿⣿⡿⣿⣟⣥⠖⠀⠀⢨⣿⣦⣀⠀⠀"
-echo "				⠀⢸⡗⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⢿⡿⠟⠋⠁⠀⠀⠀⡼⠁⠀⠈⠑⢆"
-echo "				⠀⠀⠳⣀⠀⠀⠀⠀⠀⠀⣠⣦⡀⢠⣄⣠⠤⠷⣀⡠⠶⢄⣀⣼⣀⠀⠀⣀⣀⠜"
-echo "				⠀⠀⠀⠈⠉⠒⠤⠄⣀⣰⣿⣿⣷⣿⡟⠁⠀⠀⠈⠱⡄⠀⠀⠀⠉⠉⠉⠁⠀⠀"
-echo "				⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠛⠿⠤⢀⣀⣀⣀⡴⠃⠀⠀⠀⠀⠀⠀⠀⠀"⠀
+echo ""
+echo "+------------------------------------------------------------+"
+echo "|                   L I F E   T E L E C O M                  |"
+echo "|------------------------------------------------------------|"
+echo "|       Site:    www.life.com.br                             |"
+echo "|      Setor:    CGR - Suporte                               |"
+echo "|     Script:    Issabel Construtor                          |"
+echo "+------------------------------------------------------------+"
+echo ""
 
 ### SOLICITANDO INFORMACOES
 
 while true; do
 echo ""
-echo "                     ### INICIANDO O SCRIPT INSTALAÇÃO ISSABEL- CONSTRUTOR ###"
+echo "### INICIANDO O SCRIPT INSTALAÇÃO ISSABEL- CONSTRUTOR ###"
 echo ""
 echo "Responda as questões abaixo corretamente para que possamos realizar todas as configurações para você."
 echo ""
@@ -44,39 +29,31 @@ read -p "# Digite o usuário do Banco de Dados: " int1
 echo ""
 read -p "# Digite a senha do Bando de Dados: " int2
 echo ""
-read -p "# Digite a senha do usuário root: " int3
+read -p "# Digite a senha do usuário admin da interface web: " int3
 echo ""
-read -p "# Digite o domínio do PABX: " int4
-echo ""
-read -p "# Digite a range de IP que deseja autorizar no Fail2Ban: " int5 #trocarip
-echo ""
-read -p "# Digite a porta ssh que irá usar em seu servidor: " int6 #trocarporta
+read -p "# Digite a porta ssh que irá utilizar em seu servidor: " int6 #trocarporta
 echo ""
 
 clear
 
-echo " ############################################################################################################### "
-echo " #                                                                                                             # "
-echo " #          Para dar continuidade no processo de configuração, valide se todas as informações a baixo          # "
-echo " #                                              estão corretas.                                                # "
-echo " #                                                                                                             # "
-echo " #                      Todas as informações solicitadas são de extrema importancia para o                     # "
-echo " #                                         funcionamento do script.                                            # "
-echo " #                                                                                                             # "
-echo " ############################################################################################################### "
-echo " "
-echo " "
+echo "+------------------------------------------------------------+"
+echo "|                  I M P O R T A N T E !!!                   |"
+echo "|------------------------------------------------------------|"
+echo "|            Para dar continuidade no processo de            |"
+echo "|        configuração, valide se todas as informações        |"
+echo "|                  a baixo estão corretas.                   |"
+echo "|                                                            |"
+echo "|            Todas as informações solicitadas são            |"
+echo "|        de extrema importancia para o funcionamento         |"
+echo "|                         do script.                         |"
+echo "+------------------------------------------------------------+"
 echo " "
 echo "            - Usuário do banco de dados...= $int1 "
 echo "            - Senha Banco de Dados........= $int2 "
 echo " "
-echo "            - Senha usuário root..........= $int3 "
+echo "            - Senha usuário web...........= $int3 "
 echo " "
-echo "            - Domínio do PABX.............= $int4 "
-echo " "
-echo "            - Range de IP utilizado.......= $int5 "
 echo "            - Porta SSH utilizada.........= $int6 "
-echo " "
 echo " "
 echo " "
 read -p "Caso as informações estam corretas, digite 'sim', caso deseja corrigir, digite 'nao': " int66
@@ -96,7 +73,6 @@ done
 
 # Incio preparação Linux
 
-# yum install wget mtr vim mlocate nmap tcpdump mc nano lynx rsync minicom screen htop subversion deltarpm issabel-callcenter -y
 yum install wget vim htop -y
 updatedb
 yum -y update && yum -y upgrade
@@ -107,7 +83,7 @@ yum -y update && yum -y upgrade
 
 # Inicio instalação tema Life
 
-wget -c https://github.com/patryckpinhal/issabel-construtor/raw/main/tema-life.tgz
+wget -c https://github.com/cgrsup/issabel-construtor/raw/main/tema-life.tgz
 tar zvxf tema-life.tgz
 rm -f tema-life.tgz
 mv /home/script/mainstyle.css /var/www/html/modules/pbxadmin/themes/default/css/ -f
@@ -120,7 +96,7 @@ mv /home/script/CloudPabx2/ /var/www/html/themes/
 # Incio preparando sngrep
 
 echo ""
-echo "Instalando sngrep"
+echo "Instalando sngrep!"
 echo "" 
 rm -Rf /etc/yum.repos.d/irontec.repo
 echo '[copr:copr.fedorainfracloud.org:irontec:sngrep]
@@ -139,23 +115,11 @@ yum install sngrep -y
 
 clear
 
-# Fim preparando sngrep
-
-### FAIL2BAN
-# Inicio preparando banir.sh
-# wget -c https://raw.githubusercontent.com/patryckpinhal/issabel-construtor/main/banir.sh
-# chmod +x banir.sh
-# chown -R root:root banir.sh
-# int5_esc=$(echo $int5 | sed 's/\//\\\//g')
-# sed -i "s/trocarip/$int5_esc/g" /home/script/banir.sh
-# sed -i "s/trocarporta/$int6/g" /home/script/banir.sh
-# Fim preparando banir.sh
-
 ### IPTABLES
 
 # Inicio preparando iptables.sh
 
-wget -c https://raw.githubusercontent.com/patryckpinhal/issabel-construtor/main/iptables.sh
+wget -c https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/iptables.sh?token=GHSAT0AAAAAACV5LIWIHEYDZDM5KNOIVMS6ZV6IRYQ
 chmod +x iptables.sh
 chown -R root:root iptables.sh
 
@@ -165,7 +129,7 @@ chown -R root:root iptables.sh
 
 # Inicio preparapando resetf2b.sh
 
-wget -c https://raw.githubusercontent.com/patryckpinhal/issabel-construtor/main/resetf2b.sh
+wget -c https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/resetf2b.sh?token=GHSAT0AAAAAACV5LIWJTRON2SBNSX7R4GRUZV6ISLQ
 chmod +x /home/script/resetf2b.sh
 chown -R root:root /home/script/resetf2b.sh
 
@@ -205,13 +169,15 @@ fi
 
 service sshd restart
 
+clear
+
 # Fim alterando porta SSH do arquivo ssh_config
 
 ### INSTALAÇÃO MONITFILAS E DOWNGRAVACOES
 
 # Inicio preparação banco
 
-wget -c https://github.com/patryckpinhal/issabel-construtor/raw/main/sql.tgz
+wget -c https://github.com/cgrsup/issabel-construtor/raw/main/sql.tgz
 tar zvxf sql.tgz
 rm -f sql.tgz
 
@@ -230,7 +196,7 @@ rm -f azcall.sql
 
 # Inicio baixando e configurando monitfilas e downgravacoes
 
-wget -c https://github.com/patryckpinhal/issabel-construtor/raw/main/monitdown.tgz
+wget -c https://github.com/cgrsup/issabel-construtor/raw/main/monitdown.tgz
 tar zvxf monitdown.tgz
 rm -f monitdown.tgz
 
@@ -258,4 +224,14 @@ mv /home/script/parselog /usr/local/parseloglite
 
 clear
 
-echo "Tudo pronto!"
+echo "+------------------------------------------------------------+"
+echo "|                   F I N A L I Z A Ç Ã O                    |"
+echo "|------------------------------------------------------------|"
+echo "|                Script finalizado com sucesso!              |"
+echo "|                                                            |"
+echo "|          Para ativar as configurações de segurança         |"
+echo "|      execute o comando a seguir, e siga as informações     |"
+echo "|                    contidas no script!                     |"
+echo "|                                                            |"
+echo "|               sudo ./home/script/iptables.sh               |"
+echo "+------------------------------------------------------------+"
