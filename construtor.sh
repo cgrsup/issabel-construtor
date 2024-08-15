@@ -69,6 +69,8 @@ read -p "Caso as informações estam corretas, digite 'sim', caso deseja corrigi
 	fi
 done
 
+clear
+
 ### PREPARANDO O LINUX
 
 # Incio preparação Linux
