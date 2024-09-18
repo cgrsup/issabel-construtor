@@ -12,6 +12,6 @@ COMO UTILIZAR
   iptables.sh
     Este arquivo é baixado automaticamente pelo construtor, porem, caso queira apenas renovar em um servidor que já possui, siga 0 passo a passo: 
     $ sudo rm -rf /var/script/iptables.sh
-    $ sudo wget -c https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/iptables.sh?token=GHSAT0AAAAAACV5LIWIFHP3BWWWLSRO4D4SZVWOGDA
+    $ sudo wget -c https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/iptables.sh
     $ sudo chmod +x iptables.sh
     $ sudo ./iptables.sh
