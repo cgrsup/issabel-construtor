@@ -121,7 +121,7 @@ clear
 
 # Inicio preparando iptables.sh
 
-wget -c https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/iptables.sh?token=GHSAT0AAAAAACV5LIWIHEYDZDM5KNOIVMS6ZV6IRYQ
+wget -c https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/iptables.sh
 chmod +x iptables.sh
 chown -R root:root iptables.sh
 
@@ -131,7 +131,7 @@ chown -R root:root iptables.sh
 
 # Inicio preparapando resetf2b.sh
 
-wget -c https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/resetf2b.sh?token=GHSAT0AAAAAACV5LIWJTRON2SBNSX7R4GRUZV6ISLQ
+wget -c https://raw.githubusercontent.com/cgrsup/issabel-construtor/main/resetf2b.sh
 chmod +x /home/script/resetf2b.sh
 chown -R root:root /home/script/resetf2b.sh
 
